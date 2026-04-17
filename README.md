@@ -1,1 +1,38 @@
-# soc-home-lab
+# SOC Home Lab
+
+A personal Security Operations Center (SOC) lab built to develop hands-on experience in threat detection, incident response, and security monitoring.
+
+## Lab Architecture
+
+| Component | Details |
+|-----------|---------|
+| SIEM | Wazuh 4.x (OVA on VirtualBox) |
+| Endpoint | Windows 11 (Wazuh Agent) |
+| Host Machine | Windows 11, 16GB RAM |
+| Network | Bridged adapter — 10.0.0.x |
+
+## Skills Demonstrated
+
+- SIEM deployment and configuration
+- Windows endpoint agent enrollment
+- Real-time alert monitoring and triage
+- Incident documentation and reporting
+- PCI-DSS compliance mapping
+
+## Incidents
+
+| ID | Title | Severity | Date |
+|----|-------|----------|------|
+| IR-001 | Administrator Account Lockout via Brute Force | Medium | 2026-04-17 |
+
+## Tools Used
+
+- Wazuh SIEM
+- VirtualBox
+- Wireshark (in progress)
+- Windows Event Viewer
+- PowerShell
+
+## About
+
+Built by Juan Alexander Alejo — final-year Telecommunications Engineering student at PUCMM, Dominican Republic. Certified Junior Blue Team Analyst (Security Blue Team).
