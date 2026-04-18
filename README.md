@@ -13,10 +13,16 @@ A personal Security Operations Center (SOC) lab built to develop hands-on experi
 
 ## Skills Demonstrated
 
-- SIEM deployment and configuration
-- Windows endpoint agent enrollment
+- SIEM deployment and configuration (Wazuh)
+- Windows and Linux endpoint agent enrollment
 - Real-time alert monitoring and triage
-- Incident documentation and reporting
+- Penetration testing (Metasploit, Nmap, Netcat)
+- Vulnerability assessment and exploitation (CVE-2011-2523)
+- Credential harvesting and password cracking (John the Ripper)
+- Ransomware simulation and behavioral detection
+- File Integrity Monitoring (FIM) realtime detection
+- Incident documentation and IR playbook writing
+- MITRE ATT&CK framework mapping
 - PCI-DSS compliance mapping
 
 ## Incidents
