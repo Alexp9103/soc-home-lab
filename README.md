@@ -24,6 +24,8 @@ A personal Security Operations Center (SOC) lab built to develop hands-on experi
 | ID | Title | Severity | Date |
 |----|-------|----------|------|
 | IR-001 | Administrator Account Lockout via Brute Force | Medium | 2026-04-17 |
+| IR-002 | vsftpd 2.3.4 Backdoor Exploitation + Credential Harvesting | Critical | 2026-04-17 |
+| IR-003 | Ransomware Simulation & Incident Response Plan | Critical | 2026-04-18 |
 
 ## Tools Used
 
