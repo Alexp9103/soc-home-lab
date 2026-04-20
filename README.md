@@ -33,6 +33,7 @@ A personal Security Operations Center (SOC) lab built to develop hands-on experi
 | IR-002 | vsftpd 2.3.4 Backdoor Exploitation + Credential Harvesting | Critical | 2026-04-17 |
 | IR-003 | Ransomware Simulation & Incident Response Plan | Critical | 2026-04-18 |
 
+
 ## Tools Used
 
 - Wazuh SIEM
@@ -40,6 +41,13 @@ A personal Security Operations Center (SOC) lab built to develop hands-on experi
 - Wireshark (in progress)
 - Windows Event Viewer
 - PowerShell
+
+
+## Threat Intelligence Reports
+
+| ID | Subject | Sector | Date |
+|----|---------|--------|------|
+| CTI-001 | Scattered Spider Threat Actor Profile | Financial Services | 2026-04-18 |
 
 ## About
 
